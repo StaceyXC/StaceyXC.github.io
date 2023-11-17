@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Nanjing University"
   location         : "Nanjing, China"
-  employer         :
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            :  "stacey10@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "staceyxc"
   google_plus      :
   keybase          :
   instagram        :
